@@ -1,0 +1,2 @@
+# Advent of Code (2024)
+For this year's Advent of Code I have chosen to use C. In order to execute the solution of any day, you just have to enter the folder of that day, run the build.sh and execute main.program.
